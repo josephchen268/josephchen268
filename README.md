@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Joseph Chen.
 
-![Doctor Kirby Image]([https://cdn.wikirby.com/2/24/KPR_Doctor_artwork.png])
+![Doctor Kirby Image]([/DOC_KIRBY.md])
 
 - 📖 I’m currently learning how to use github and putting previous projects into github.
 - 🐍 Skills: Python, R, Excel, SQL, and more...
